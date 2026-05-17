@@ -63,9 +63,7 @@ This repository hosts downloadable Android builds (APK files) for testing and pi
 <br>
 
 ## 🚧 Status: Pending Google Verification - Lindocode Digital
-Google Drive integration is currently pending OAuth verification.
-Full cloud sync functionality will be available once verification is approved.
-A public announcement will follow successful verification.
+Google Drive integration is currently pending OAuth verification. A public announcement will follow successful verification.
 
 <br>
 
