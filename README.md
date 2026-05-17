@@ -62,13 +62,10 @@ This repository hosts downloadable Android builds (APK files) for testing and pi
 
 <br>
 
-## 🚧 Status: Private Beta - Lindocode Digital
-
-Project is in a closed testing phase. 
-Access is limited to selected testers.
-
-A public testing phase will be announced after successful private validation.
-Releases will be uploaded publicly then.
+## 🚧 Status: Pending Google Verification - Lindocode Digital
+Google Drive integration is currently pending OAuth verification.
+Full cloud sync functionality will be available once verification is approved.
+A public announcement will follow successful verification.
 
 <br>
 
