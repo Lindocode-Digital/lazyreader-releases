@@ -37,7 +37,7 @@
 <br>
 </div>
 
-# LazyReader – App
+# LazyReader – The Android companion to LazyAuthor, enabling readers to enjoy cloud-based EPUB libraries alongside rich interactive publications created with LazyAuthor.
 
 ![Home](https://dawn-unit-97b0.sdrowvieli1.workers.dev/lazyreader/lazyreader2.webp)
 
