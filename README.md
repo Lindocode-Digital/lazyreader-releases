@@ -44,33 +44,116 @@
 <br>
 
 ## 💭 Vision
-LazyReader is a modern cloud-powered reading platform designed to help users seamlessly access, organize, and enjoy their digital books across devices with a clean, immersive, and distraction-free reading experience.
 
-This repository hosts downloadable Android builds (APK files) for testing and pilot deployment.
+LazyReader is a cloud-connected EPUB reader designed for modern digital libraries. Instead of importing and managing duplicate files, it connects directly to your cloud storage so your books stay where they belong.
 
-<br>
-
-## 📲 Download the App
-
-1) Go to the Releases section of this repository
-
-2) Download the latest .apk file
-
-3) Enable “Install from unknown sources” on your Android device
-
-4) Install and open the app
+Whether you're reading a traditional novel or an interactive EPUB, LazyReader delivers a clean, immersive experience with support for rich media, accessibility, and offline reading.
 
 <br>
 
-## 🚧 Status: Pending Google Verification - Lindocode Digital
-Google Drive integration is currently pending OAuth verification. A public announcement will follow successful verification.
+## 📲 Get LazyReader
+ 
+<div align="center">
+<a href="https://play.google.com/store/apps/details?id=com.lindocode.lazyreader">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="64" alt="Get it on Google Play">
+</a>
+</div>
+
+- Download LazyReader directly from Google Play for automatic updates and the latest features.
+
+- For development and testing builds, APK releases remain available in the Releases section of this repository.
+
+<br>
+
+## 🌟 The Lazy Ecosystem
+
+LazyReader is part of a growing ecosystem for interactive digital publishing.
+
+### 📖 LazyReader
+A cloud-connected EPUB reader for Android featuring:
+
+- ☁️ Cloud library support
+- 📚 Standard EPUB reading
+- 🎮 Interactive EPUB support
+- 🔊 Text-to-Speech
+- 🎬 Embedded audio & video
+- 📥 Offline reading
+- 🌙 Clean, distraction-free experience
+
+### ✍️ LazyAuthor
+
+Create rich, interactive EPUB experiences for LazyReader.
+
+Design books with:
+
+- 🎮 Interactive buttons and controls
+- 🎞️ Animations
+- 🎵 Audio
+- 🎥 Video
+- 🧩 JavaScript-powered interactions
+- 📖 Traditional EPUB content
+
+Whether you're creating educational material, children's books, visual novels, interactive fiction, or multimedia publications, LazyAuthor gives authors the tools to build next-generation EPUB experiences that work seamlessly in LazyReader.
+
+**LazyAuthor:** https://lazyauthor.lindocode.com
+
+<br>
+
+## ✅ Status
+
+LazyReader is now available on Google Play.
+
+Current cloud providers include:
+
+- ✅ Dropbox
+- ✅ Nextcloud
+- 🚧 OnedriveDrive (addressing bugs)
+
+OneDrive support will become available once feature bugs have been addressed.
+
+<br>
+
+## ✨ Features
+
+- ☁️ Read books directly from cloud storage
+  - Dropbox
+  - Nextcloud
+  - Google Drive (coming soon)
+
+- 📚 Full EPUB support
+  - Standard EPUB books
+  - Interactive EPUBs
+  - HTML5-based interactive content
+
+- 🎮 Interactive experiences
+  - Buttons and controls
+  - Embedded audio
+  - Embedded video
+  - Animations
+  - JavaScript-powered interactions
+
+- 🔊 Text-to-Speech (TTS)
+  - Listen while reading
+  - Background playback support
+
+- 📥 Offline mode
+  - Download books for reading without an internet connection
+
+- 📖 Comfortable reading
+  - Clean, distraction-free interface
+  - Resume where you left off
+  - Fast library browsing
+
+- 🔒 Privacy-first
+  - Your books remain in your own cloud storage
 
 <br>
 
 ## Author
 
-**Lindocode Digital**  
-_Trading as Lazy Apps_
+**Lindocode Digital**
+
+Creator of the Lazy Apps ecosystem.
 
 <br>
 
@@ -82,7 +165,11 @@ All rights reserved © Lindocode Digital
 
 ## ⭐ Support
 
-_If this project helped you or you like it, consider giving it a star ⭐ on GitHub!_
+If you enjoy LazyReader:
+
+- ⭐ Star this repository
+- 📱 Leave a review on Google Play
+- 💬 Share feedback and feature requests through GitHub Issues
 
 
 <div align="center">
